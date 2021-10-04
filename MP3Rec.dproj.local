@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/18 13:24:03.000.403,=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/18 14:35:45.000.577,=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/18 14:55:59.000.523,=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/21 05:26:16.000.354,=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/21 05:28:22.000.398,C:\Users\Tran\Music\1\Main.fmx=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2020/12/21 05:28:22.000.398,C:\Users\Tran\Music\1\Main.pas=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/21 05:28:26.000.798,C:\Users\Tran\Music\1\BassLiveFX.dproj=C:\Users\Tran\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/12/21 06:10:34.000.698,C:\Users\Tran\Music\iOS-Tests\1\BassLiveFX.dproj=C:\Users\Tran\Music\iOS-Tests\1\Test.dproj</Transaction>
+    <Transaction>2020/12/21 06:16:10.000.982,=C:\Users\Tran\Music\iOS-Tests\2\Unit1.pas</Transaction>
+    <Transaction>2020/12/21 06:16:34.000.002,C:\Users\Tran\Music\iOS-Tests\2\Frameworks.pas=C:\Users\Tran\Music\iOS-Tests\2\Unit1.pas</Transaction>
+    <Transaction>2020/12/21 06:18:27.000.337,C:\Users\Tran\Music\iOS-Tests\2\Frameworks.pas=</Transaction>
+    <Transaction>2020/12/22 01:07:44.000.167,=C:\Users\Tran\Downloads\Audio-Libraries-Players\BASS\iOS-Tests\4\Bass\Bass.pas</Transaction>
+    <Transaction>2021/01/15 03:42:56.000.624,=C:\Users\Tran\Videos\DelphiFMX-BASS\FMX-BASSVersion\BASS\FMX.Bass.pas</Transaction>
+    <Transaction>2021/04/28 00:10:42.000.473,D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\TestFMX.dproj=D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\Test.dproj</Transaction>
+    <Transaction>2021/04/28 00:12:26.000.345,D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\MainFMX.pas=D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\Main.pas</Transaction>
+    <Transaction>2021/04/28 00:12:26.000.345,D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\MainFMX.fmx=D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\Main.fmx</Transaction>
+    <Transaction>2021/04/28 00:23:26.000.376,D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\BASS\Bass.pas=D:\WatchAndDelete\0\DelphiFMX-BASS\FMX-BASSVersion\BASS\FMX.BASS.pas</Transaction>
+    <Transaction>2021/04/30 01:10:16.000.444,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassEnc.pas</Transaction>
+    <Transaction>2021/05/04 00:21:57.000.547,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassEnc_FLAC.pas</Transaction>
+    <Transaction>2021/05/04 02:05:16.000.162,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassEnc_MP3.pas</Transaction>
+    <Transaction>2021/05/04 02:34:53.000.465,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassEnc_OGG.pas</Transaction>
+    <Transaction>2021/05/04 02:35:09.000.643,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassEnc_OPUS.pas</Transaction>
+    <Transaction>2021/05/09 00:21:28.000.838,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassOPUS.pas</Transaction>
+    <Transaction>2021/05/09 00:21:28.000.800,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassFLAC.pas</Transaction>
+    <Transaction>2021/05/12 02:01:09.000.073,D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassOPUS.pas=</Transaction>
+    <Transaction>2021/05/12 02:01:09.000.004,D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassFLAC.pas=</Transaction>
+    <Transaction>2021/05/15 01:08:45.000.801,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassFLAC.pas</Transaction>
+    <Transaction>2021/05/15 01:08:45.000.895,=D:\WatchAndDelete\0\Delphi-BASS\BassVersions\BASS\Add-ons\BassOPUS.pas</Transaction>
+    <Transaction>2021/10/04 23:09:14.000.019,C:\Users\Tran\Videos\BassVersions\MP3Rec.dproj=C:\Users\Tran\Videos\BassVersions\TestFMX.dproj</Transaction>
+    <Transaction>2021/10/04 23:10:29.000.440,C:\Users\Tran\Videos\BassVersions\Main.fmx=C:\Users\Tran\Videos\BassVersions\MainFMX.fmx</Transaction>
+    <Transaction>2021/10/04 23:10:29.000.440,C:\Users\Tran\Videos\BassVersions\Main.pas=C:\Users\Tran\Videos\BassVersions\MainFMX.pas</Transaction>
+    <Transaction>2021/10/05 00:14:24.000.615,C:\Users\Tran\Videos\MP3Rec\BASS\Add-ons\BassEnc_FLAC.pas=</Transaction>
+    <Transaction>2021/10/05 00:14:33.000.677,C:\Users\Tran\Videos\MP3Rec\BASS\Add-ons\BassEnc_OGG.pas=</Transaction>
+    <Transaction>2021/10/05 00:14:37.000.579,C:\Users\Tran\Videos\MP3Rec\BASS\Add-ons\BassEnc_OPUS.pas=</Transaction>
+    <Transaction>2021/10/05 00:14:42.000.178,C:\Users\Tran\Videos\MP3Rec\BASS\Add-ons\BassFLAC.pas=</Transaction>
+    <Transaction>2021/10/05 00:14:45.000.947,C:\Users\Tran\Videos\MP3Rec\BASS\Add-ons\BassOPUS.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacOSX iOSSimulator="iPhone5" iOSDevice64="_iosdevice_00008030-001234D936DB802E"/>
+		<NoProfile Android="" Android64=""/>
+	</ActiveMobileDevice>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="android-support-v4.dex.jar"/>
+    <File Path="cloud-messaging.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-base.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-identifier.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-lite.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-base.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-basement.16.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-gass.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-identity.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-maps.16.1.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-base.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-sdk-api.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-stats.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tagmanager-v4-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tasks.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-wallet.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-analytics.16.4.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-common.16.1.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid-interop.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid.17.1.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-measurement-connector.17.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-messaging.17.5.0.dex.jar"/>
+    <File Path="fmx.dex.jar"/>
+    <File Path="google-play-billing.dex.jar"/>
+    <File Path="google-play-licensing.dex.jar"/>
+    <File Path="android-support-v4.dex.jar"/>
+    <File Path="cloud-messaging.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-base.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-identifier.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-lite.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-base.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-basement.16.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-gass.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-identity.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-maps.16.1.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-base.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-sdk-api.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-stats.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tagmanager-v4-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tasks.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-wallet.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-analytics.16.4.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-common.16.1.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid-interop.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid.17.1.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-measurement-connector.17.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-messaging.17.5.0.dex.jar"/>
+    <File Path="fmx.dex.jar"/>
+    <File Path="google-play-billing.dex.jar"/>
+    <File Path="google-play-licensing.dex.jar"/>
+    <File Path="BASS"/>
+    <File Path="BASS\Add-ons"/>
+    <File Path="BASS\Add-ons\BassEnc.pas"/>
+    <File Path="BASS\Add-ons\BassEnc_MP3.pas"/>
+    <File Path="BASS\Core"/>
+    <File Path="BASS\Core\Bass.pas"/>
+    <File Path="Main.pas"/>
+    <File Path="Main.fmx"/>
+  </ProjectSortOrder>
+</BorlandProject>

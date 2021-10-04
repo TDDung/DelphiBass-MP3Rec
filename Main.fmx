@@ -1,0 +1,55 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = Single
+  Caption = 'MP3Rec'
+  ClientHeight = 92
+  ClientWidth = 217
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  DesignerMasterStyle = 0
+  object Rectangle1: TRectangle
+    Align = Client
+    Enabled = False
+    Fill.Color = claDeepskyblue
+    Size.Width = 217.000000000000000000
+    Size.Height = 92.000000000000000000
+    Size.PlatformDefault = False
+    object Button2: TButton
+      Position.X = 86.000000000000000000
+      Position.Y = 16.000000000000000000
+      Size.Width = 115.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = 'RECORD'
+      OnClick = Button2Click
+    end
+    object Button3: TButton
+      Enabled = False
+      Position.X = 86.000000000000000000
+      Position.Y = 51.000000000000000000
+      Size.Width = 115.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = 'STOP'
+      OnClick = Button3Click
+    end
+  end
+  object Button1: TButton
+    Enabled = False
+    Position.X = 16.000000000000000000
+    Position.Y = 16.000000000000000000
+    Size.Width = 62.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 12
+    Text = 'START'
+    OnClick = Button1Click
+  end
+end
